@@ -1,0 +1,10 @@
+test/
+.github/
+.editorconfig
+.eslint*
+.gitignore
+.mocharc
+.huskyrc
+*.md
+.env*
+yarn.lock
